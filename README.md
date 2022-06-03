@@ -25,9 +25,7 @@ N/A
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='[[http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough](https://imgur.com/TffSsOq)](https://imgur.com/a/HXaXvUB)' />
+[Here's a walkthrough of implemented user stories:](https://imgur.com/a/HXaXvUB)
 
 
 ## Notes
