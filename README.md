@@ -1,4 +1,4 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Flixter*
 
 **Name of your app** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
@@ -27,9 +27,8 @@ N/A
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough](https://imgur.com/TffSsOq)' />
 
-GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
