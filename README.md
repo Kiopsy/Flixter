@@ -15,14 +15,6 @@ The following **required** functionality is completed:
   * [x] Title, Backdrop Image, Overview (Landscape mode)
 * [x] Allow user to view details of the movie including ratings within a separate activity
 
-The following **stretch** features are implemented:
-
-N/A
-
-The following **additional** features are implemented:
-
-N/A
-
 ## Video Walkthrough
 
 [Here's a walkthrough of implemented user stories:](https://imgur.com/a/HXaXvUB)
