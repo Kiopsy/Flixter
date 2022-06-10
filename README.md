@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-[Here's a walkthrough of implemented user stories:](https://imgur.com/a/XkRVVxL)
+[Here's a walkthrough of implemented user stories:](https://imgur.com/a/HXaXvUB)
 
 
 ## Notes
